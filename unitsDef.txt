@@ -1,0 +1,2 @@
+Si_Atoms = 1 * dimensionless = Si_Atoms
+As_Atoms = 1 * dimensionless = As_Atoms
